@@ -1,0 +1,6 @@
+{
+  "name": "Employee Performance Calculator",
+  "description": "Professional HR employee performance evaluation calculator with weighted scoring, ratings, customized recommendations, and executive reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
